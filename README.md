@@ -1,2 +1,2 @@
 # junior-dev
-From junior dev to mid dev repository
+My first repository on my journey to become a mid developer
